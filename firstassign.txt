@@ -1,0 +1,17 @@
+#include <iostream>
+using namespace std;
+int main{
+int A , B;
+cout<<"Enter the value of A"<<'/n';
+cin>>A>>'/n';
+
+cout<<"Enter the value of B"<<'/n';
+cin>>B>>'/n';
+
+if(A<B){
+cout<<"B is greater";
+}
+else{
+cout<<"B is greater";
+}
+}
